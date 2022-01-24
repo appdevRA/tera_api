@@ -1,0 +1,30 @@
+[
+{
+  "model": "ra.department",
+  "pk": 1,
+  "fields": {
+    "abbv": "CIT-U",
+    "name": "Cebu Institute of Technology - University"
+  }
+},
+{
+  "model": "ra.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$YaW0D8BxGmjOkdk2y6XlUB$dmeEOI3mRKgbY+Yzro7FoSW+oVWknY0OhhV12Q/HXO4=",
+    "last_login": "2022-01-09T13:58:03.208Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-01-09T13:56:01.638Z",
+    "student_id": "",
+    "department": 1,
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
